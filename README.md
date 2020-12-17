@@ -1,1 +1,1 @@
-chdc_mon
+Repositorio para llenado de eslaticsearch desde impala
